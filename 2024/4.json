@@ -4,12 +4,13 @@
   "kat_group": 2,
   "digits_before": 2,
   "digits_after": 2,
+  "versuche": 3,
   "bjs": {
     "a_w": 1.09350,
     "c_w": 0.00208,
     "a_m": 1.15028,
     "c_m": 0.00219,
-    "formel": "Wurf/Stoß",
+    "formel": "Sprung",
     "altersklassen_m": [10,11,12,13,14,15,16,17,18,19,20],
     "altersklassen_w": [10,11,12,13,14,15,16,17,18,19,20]
   },

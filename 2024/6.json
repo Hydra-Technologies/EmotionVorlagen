@@ -4,6 +4,7 @@
   "kat_group": 3,
   "digits_before": 2,
   "digits_after": 2,
+  "versuche": 3,
   "bjs": {
     "a_w": 2.02320,
     "c_w": 0.00874,
