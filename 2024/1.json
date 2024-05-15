@@ -16,16 +16,16 @@
   },
   "dosb": {
     "altersklassen_m": [
-      {"alter": 11, "bronze": 11,   "silber": 10.1, "gold": 9.1},
-      {"alter": 12, "bronze": 11,   "silber": 10.1, "gold": 9.1},
-      {"alter": 13, "bronze": 10.6, "silber": 9.6,  "gold": 8.5},
-      {"alter": 14, "bronze": 10.6, "silber": 9.6,  "gold": 8.5}
+      {"alter": 10, "bronze": 10.3,   "silber": 9.3, "gold": 8.4},
+      {"alter": 11, "bronze": 10.3,   "silber": 9.3, "gold": 8.4},
+      {"alter": 12, "bronze": 9.7, "silber": 8.9,  "gold": 8.1},
+      {"alter": 13, "bronze": 9.7, "silber": 8.9,  "gold": 8.1}
     ],
     "altersklassen_w": [
+      {"alter": 10, "bronze": 11,   "silber": 10.1, "gold": 9.1},
       {"alter": 11, "bronze": 11,   "silber": 10.1, "gold": 9.1},
-      {"alter": 12, "bronze": 11,   "silber": 10.1, "gold": 9.1},
-      {"alter": 13, "bronze": 10.6, "silber": 9.6,  "gold": 8.5},
-      {"alter": 14, "bronze": 10.6, "silber": 9.6,  "gold": 8.5}
+      {"alter": 12, "bronze": 10.6, "silber": 9.6,  "gold": 8.5},
+      {"alter": 13, "bronze": 10.6, "silber": 9.6,  "gold": 8.5}
     ]
   }
 }
