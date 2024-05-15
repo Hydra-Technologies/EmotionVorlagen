@@ -3,7 +3,7 @@
   "einheit": "m",
   "kat_group": 3,
   "digits_before": 2,
-  "digits_after": 2,
+  "digits_after": 1,
   "versuche": 3,
   "bjs": {
     "a_w": 1.41490,
