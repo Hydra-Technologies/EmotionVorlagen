@@ -2,7 +2,7 @@
   "name": "800m Lauf",
   "einheit": "d",
   "kat_group": 4,
-  "digits_before": 2,
+  "digits_before": 1,
   "digits_after": 2,
   "versuche": 1,
   "bjs": {
