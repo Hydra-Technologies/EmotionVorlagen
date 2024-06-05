@@ -1,7 +1,7 @@
 {
   "name": "Standweitsprung",
   "einheit": "m",
-  "kat_group": 4,
+  "kat_group": 3,
   "digits_before": 1,
   "digits_after": 2,
   "versuche": 3,
